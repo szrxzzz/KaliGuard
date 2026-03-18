@@ -31,11 +31,11 @@ It continuously monitors system activity, detects suspicious behavior, and logs 
 ```bash
 chmod +x kaliguard.sh
 ./kaliguard.sh
-
+```
+---
 
 ## 📂 Project Structure
 
-```
 KaliGuard/
 │── kaliguard.sh
 │── modules/
