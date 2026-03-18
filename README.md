@@ -35,7 +35,7 @@ chmod +x kaliguard.sh
 ---
 
 ## 📂 Project Structure
-
+```
 KaliGuard/
 │── kaliguard.sh
 │── modules/
